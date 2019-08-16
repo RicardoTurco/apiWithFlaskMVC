@@ -22,7 +22,7 @@ python run.py db upgrade<br><br>
 
 
 After that, just run your application.<br>
-(python crud.py)
+(python run.py runserver)
 
 # Available Endpoints:
 
